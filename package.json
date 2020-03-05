@@ -1,0 +1,17 @@
+{
+  "name": "cordova-plugin-cpaysdk",
+  "version": "1.0.0",
+  "description": "cpaysdk",
+  "cordova": {
+    "id": "cordova-plugin-cpaysdk",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Jerry",
+  "license": "GMT"
+}
